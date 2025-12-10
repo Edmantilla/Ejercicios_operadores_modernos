@@ -1,7 +1,6 @@
 {
   "name": "modules",
   "version": "1.0.0",
-  "description": "",
   "main": "node app8.js",
   "type": "module",
   "scripts": {
@@ -20,5 +19,6 @@
   "homepage": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "description": ""
 }
