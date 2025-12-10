@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-.git"
+    "url": "https://github.com/Edmantilla/Ejercicios_operadores_modernos.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-/issues"
+    "url": "https://github.com/Edmantilla/Ejercicios_operadores_modernos.git"
   },
-  "homepage": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-#readme",
+  "homepage": "https://github.com/Edmantilla/Ejercicios_operadores_modernos.git",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
